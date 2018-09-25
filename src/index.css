@@ -1,0 +1,39 @@
+#mainTitle {
+	text-align: center;
+	font-size: 40px;
+}
+
+#categoryTitle {
+	font-size: 32px;
+	text-align: center;
+	height: 50px;
+}
+
+.topButton {
+	background: blue;
+	color: white;
+	padding: 10px;
+	margin-left: 33%;
+}
+
+.topButton:hover {
+	background: lightblue;
+}
+
+#topButtonRow {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.itemName {
+	background: #50b950;
+	font-size: 20px;
+	height: 30px;
+}
+
+.itemNote {
+	background: lightgreen;
+	font-size: 16px;
+	height: 30px;
+	padding-top: 3px;
+}
